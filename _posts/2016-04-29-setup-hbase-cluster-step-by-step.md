@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 事无巨细 HBase-1.2.1 集群搭建
-tags: [HBase]
+categories: HBase
 date: 2016-04-29 11:12:57 +0800
 comments: true
 thread_key: 1894
+Author: 李宏哲  
 ---
 继续搭建**HBase**集群环境。**HBase**版本也比较杂，目前也有两大稳定的分支，**1.1.x**和**1.2.x**。从官方文档了解到，支持**Hadoop2.6.1+**对应版本应该是**1.2.x**系列，因此这里选择**1.2.1**稳定版。**1.1.x**在**Hadoop 2.6.1+**上是***未测试***的。
 
