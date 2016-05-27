@@ -5,7 +5,7 @@ categories: kafka
 date: 2016-04-29 09:30:57 +0800
 comments: true
 thread_key: 1892
-Author: 李宏哲  
+author: 李宏哲  
 ---
 **Kafka**集群环境依赖于**Zookeeper**环境。因此我们的环境搭建实际分为两部分。**Zookeeper**环境搭建和**Kafka**环境搭建。
 

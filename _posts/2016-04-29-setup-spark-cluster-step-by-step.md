@@ -5,7 +5,7 @@ categories: Spark
 date: 2016-04-29 10:42:32 +0800
 comments: true
 thread_key: 1893
-Author: 李宏哲  
+author: 李宏哲  
 ---
 还是在之前的Hadoop集群环境上继续搭建Spark-1.6.1环境
 

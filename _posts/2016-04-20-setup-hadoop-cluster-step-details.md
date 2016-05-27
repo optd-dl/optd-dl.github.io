@@ -5,7 +5,7 @@ categories: Hadoop
 date: 2016-04-20 16:44:22 +0800
 comments: true
 thread_key: 1890
-Author: 李宏哲  
+author: 李宏哲  
 ---
 本文详细记录了OneCoder通过自己的Mac环境，在开发服务器(**CentOS 6.5**)上搭建**Hadoop**的详细过程。因为事无巨细，所以可能会”跑题”。
 
