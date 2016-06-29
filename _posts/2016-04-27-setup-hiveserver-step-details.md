@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 事无巨细 Hive1.2.1 Hiveserver搭建详解
+title: 事无巨细 Hive1.2.1 Hiveserver搭建详解1234
 categories: Hive
 date: 2016-04-27 19:30:18 +0800
 comments: true
 thread_key: 1891
-author: 李宏哲  
+author: 李宏哲 
 ---
 
 上文介绍**了Hadoop2.6.4**集群搭建的详细步骤。现在我们在此基础上，搭建**Hiveserver**。同样，事无巨细，难免跑题。
