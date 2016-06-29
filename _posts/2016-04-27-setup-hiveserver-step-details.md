@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 事无巨细 Hive1.2.1 Hiveserver搭建详解1234
+title: 事无巨细 Hive1.2.1 Hiveserver搭建详解
 categories: Hive
 date: 2016-04-27 19:30:18 +0800
 comments: true
